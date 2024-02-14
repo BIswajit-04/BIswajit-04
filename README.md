@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajit Mardi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-04&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-04" /> </p>
 
 - 🔭 I’m currently working on [Still Thinking](going.to.add)
